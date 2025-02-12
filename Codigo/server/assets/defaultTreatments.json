@@ -1,0 +1,62 @@
+[
+	{
+		"element": "Ag",
+		"custom": false
+	},
+	{
+		"element": "Au",
+		"custom": false
+	},
+	{
+		"element": "Ars",
+		"custom": false
+	},
+	{
+		"element": "Cu",
+		"custom": false
+	},
+	{
+		"element": "Dig",
+		"custom": false
+	},
+	{
+		"element": "Eqt",
+		"custom": false
+	},
+	{
+		"element": "Fe",
+		"custom": false
+	},
+	{
+		"element": "For",
+		"custom": false
+	},
+	{
+		"element": "Hg",
+		"custom": false
+	},
+	{
+		"element": "Hp",
+		"custom": false
+	},
+	{
+		"element": "Mg",
+		"custom": false
+	},
+	{
+		"element": "Pb",
+		"custom": false
+	},
+	{
+		"element": "Ph",
+		"custom": false
+	},
+	{
+		"element": "Sil",
+		"custom": false
+	},
+	{
+		"element": "St",
+		"custom": false
+	}
+]
