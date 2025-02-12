@@ -1,0 +1,30 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Caldas de Mello
+    given-names: Ana Carolina
+  - family-names: Queiroz Rocha
+    given-names: João Pedro
+  - family-names: Menezes Barboza
+    given-names: Gustavo
+  - family-names: Gonçalves Ferreira de Souza
+    given-names: Maria Eduarda
+  - family-names: Dias Camara
+    given-names: Pedro Henrique
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ishitani
+    given-names: Lucila
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: da Silva
+    given-names: Soraia Lúcia
+keywords:
+  - Clínica Médica
+  - Medicina
+  - Antroposofia
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-12-12
