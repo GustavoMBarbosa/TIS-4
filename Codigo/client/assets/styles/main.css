@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind typography;
+
+body {
+    @apply bg-gray-100;
+}
+
+::-webkit-scrollbar {
+    @apply rounded-full w-[8px] h-[8px] bg-gray-300;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-gray-400;
+}
+
+* {
+    @apply outline-none h-fit;
+}
+
+.skeleton {
+	@apply w-full bg-gradient-to-r from-transparent via-white to-transparent rounded-8 h-[14px] bg-gray-300;
+	background-size: 200% 100%;
+	animation: moveBar 2s linear infinite;
+}
+
+pre {
+	font-family: 'Inter', sans-serif;
+}
+
+@keyframes moveBar {
+	0% {
+		background-position: -200% 0;
+	}
+	100% {
+		background-position: 200% 0;
+	}
+}
